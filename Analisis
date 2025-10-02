@@ -1,0 +1,4 @@
+Agen DQN bisa belajar cara menjaga tiang tetap seimbang di game CartPole-v1.
+Di awal latihan, skornya masih kecil karena agen sering coba-coba gerakan secara acak.
+Semakin lama dilatih, agen makin jarang coba-coba dan lebih sering pakai pengalaman yang sudah didapat, jadi skornya naik.
+Nilai gamma berpengaruh ke seberapa jauh agen mikir ke depan soal reward (jangka panjang).
